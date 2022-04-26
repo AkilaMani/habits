@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68667804258",
+    "project_id": "habit-90bfe",
+    "storage_bucket": "habit-90bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68667804258:android:da59ba8257ffe9e778df3b",
+        "android_client_info": {
+          "package_name": "com.example.habit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68667804258-vi4iv5kbodgbq79r7vk3k4gvfsc8fifm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeH_gQqB7lq6klcZSeCSTpC581QfsnHsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68667804258-vi4iv5kbodgbq79r7vk3k4gvfsc8fifm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
