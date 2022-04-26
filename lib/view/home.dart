@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_sinusoidals/flutter_sinusoidals.dart';
+// import 'package:flutter_sinusoidals/flutter_sinusoidals.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:habit/helper/authentication_helper.dart';
 import 'package:habit/values/colors.dart';

@@ -78,13 +78,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.3"
-  equatable:
-    dependency: transitive
-    description:
-      name: equatable
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.2.6"
   fake_async:
     dependency: transitive
     description:
@@ -146,13 +139,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
-  flutter_sinusoidals:
-    dependency: "direct main"
-    description:
-      name: flutter_sinusoidals
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter

@@ -42,7 +42,7 @@ dependencies:
   intl: ^0.17.0
   fluttertoast: ^8.0.9
   date_picker_timeline: ^1.2.3
-  flutter_sinusoidals: ^0.1.4
+  # flutter_sinusoidals: ^0.1.4
 
 dev_dependencies:
   flutter_test:
